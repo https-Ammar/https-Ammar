@@ -1,5 +1,3 @@
-<!--Banner-->
-![Kiran1689 Banner Image](./banner.png)
 
 <!--Night Owl image-->
 <div>
