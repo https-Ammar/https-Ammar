@@ -12,10 +12,13 @@ public struct AboutMe {
     let name = "Jay"
     var pronouns = ["he","him"]
     
-    let profession = "iOS Engineer @ Matter Neuroscience"
+      let name = "Ammar Ahmed Mostafa"
+    var pronouns = ["he","him"]
     
-    var preferredTechStack = ["swift", "swiftui", "cloudkit", "core data"]
-    var hasUsed = ["react", "javascript", "firebase"]
+    let profession = "Full Stack Developer & AI Student"
+    
+    var preferredTechStack = ["HTML", "CSS", "JavaScript", "PHP", "Vue.js", "SQL"]
+    var hasUsed = ["Python", "Firebase", "Bootstrap", "Swift"]
 }
 
 
