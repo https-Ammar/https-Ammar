@@ -1,23 +1,26 @@
-<!-- Night Owl Image -->
+<!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl">
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<!-- Header Name -->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀᴍᴍᴀʀ!  
-*Digital Craftsman (Developer / Programmer)*  
-<br />  
-
-```swift
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
+*Digital Craftsman (Developer / Programmer)*
+<br /> 
+swift
 public struct AboutMe {
-    let name = "Ammar Ahmed Mostafa"
+    let name = "Jay"
     var pronouns = ["he","him"]
     
-    let profession = "Full Stack Developer & AI Student"
+    let profession = "iOS Engineer @ Matter Neuroscience"
     
-    var preferredTechStack = ["HTML", "CSS", "JavaScript", "PHP", "Vue.js", "SQL"]
-    var hasUsed = ["Python", "Firebase", "Bootstrap", "Swift"]
+    var preferredTechStack = ["swift", "swiftui", "cloudkit", "core data"]
+    var hasUsed = ["react", "javascript", "firebase"]
 }
+
+
+I solve problems using the tools available to me. I generally like using Swift and SwiftUI but not afraid to try something new.
+
 
 
 
