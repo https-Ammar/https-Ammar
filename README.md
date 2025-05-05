@@ -4,7 +4,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ » Ammar! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 swift
@@ -20,10 +20,6 @@ public struct AboutMe {
     var preferredTechStack = ["HTML", "CSS", "JavaScript", "PHP", "Vue.js", "SQL"]
     var hasUsed = ["Python", "Firebase", "Bootstrap", "Swift"]
 }
-
-
-I solve problems using the tools available to me. I generally like using Swift and SwiftUI but not afraid to try something new.
-
 
 
 
