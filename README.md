@@ -1,7 +1,3 @@
-<!-- Night Owl Image -->
-<p align="right">
-  <img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" width="40%" />
-</p>
 
 <!-- Header Name -->
 # 😎 I’m » Ammar!  
