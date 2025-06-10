@@ -71,3 +71,6 @@ public struct AboutMe {
     ]
 }
 
+
+<p >© 2025. All rights reserved by Ammar Ahmed </p>
+
