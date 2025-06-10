@@ -1,25 +1,30 @@
-
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Ammar! 
-
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  I'm Ammar!
+</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ammr%20Ahmed%20Mustafa;Front%20End%20Developer%20&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&size=22"></a>
-</p> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Ammar%20Ahmed%20Mustafa;Front%20End%20Developer%20&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&size=22">
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu" alt="visitor badge"/>
+</p>
 
+---
 
+### 👋 Hi, I'm [Ammar Ahmed](https://eng-ammar.com/)
 
+A **passionate self-taught Web Developer** and **freelance software engineer** from **Egypt**.  
+My passion for software lies in dreaming up ideas and bringing them to life with elegant interfaces.  
+I’m also an **open-source enthusiast and contributor**, always learning and sharing through the community.  
+I truly believe in the power of **collaboration** and **knowledge exchange** in open source.
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+---
 
-<br />
-
-Hi, I'm [Ammar Ahmed](https://ammar2852021.github.io/mero/) A Passionate Self-Taught Web Developer And Freelance Software Engineer From Egypt My Passion For Software Lies In Dreaming Of Ideas And Making Them Come True Through Elegant Interfaces I Am Also Enthusiastic And An Open Source Supervisor. I Learned A Lot From The Open Source Community And I Love How Collaboration And Knowledge Sharing Happened Through Open Source .
-
-
-<!-- Header Name -->
-# 😎 I’m » Ammar!  
-**Digital Craftsman (Developer / Programmer)**
+### 🧠 About Me (Swift Style)
 
 ```swift
 public struct AboutMe {
