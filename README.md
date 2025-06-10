@@ -23,10 +23,14 @@ Hi, I'm [Ammar Ahmed](https://ammar2852021.github.io/mero/) A Passionate Self-Ta
 
 ```swift
 public struct AboutMe {
-    let name = "Ammar Ahmed Mostafa"
+    let name = "Ammar Ahmed"
     var pronouns = ["he", "him"]
-    let profession = "Full Stack Developer & AI Student"
+    let profession = "Web Developer & Cybersecurity Enthusiast"
+    
+    let college = "Faculty of Computer Science"
+    let country = "Egypt"
+    let age = 22
 
-    var preferredTechStack = ["HTML", "CSS", "JavaScript", "PHP", "Vue.js", "SQL"]
-    var hasUsed = ["Python", "Firebase", "Bootstrap", "Swift"]
+    var preferredTechStack = ["HTML", "CSS", "JavaScript", "PHP", "MySQL"]
+    var hasUsed = ["Python", "Bootstrap", "Laravel", "Vue.js", "Firebase"]
 }
