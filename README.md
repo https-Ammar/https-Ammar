@@ -36,6 +36,7 @@
 
 ```swift
 
+
 public struct AboutMe {
     let name = "Ammar Ahmed"
     var pronouns = ["he", "him"]
@@ -45,68 +46,35 @@ public struct AboutMe {
     let country = "Egypt"
     let age = 21
 
-    // Preferred Tech Stack
     var preferredTechStack = ["HTML", "CSS", "JavaScript", "PHP", "MySQL"]
     
-    // Languages
     var programmingLanguages = [
-        "HTML: Used in structure",
-        "CSS: Styling pages",
-        "SASS: Advanced CSS",
-        "JavaScript: Dynamic content",
-        "Jquery: DOM manipulation",
-        "C++: OOP basics",
-        "C: Low-level programming",
-        "Python: General purpose",
-        "PHP: Server-side scripting",
-        "SQL: Databases queries",
-        "CS: General computer science"
+        "HTML", "CSS", "SASS", "JavaScript", "Jquery",
+        "C++", "C", "Python", "PHP", "SQL", "CS"
     ]
 
-    // Frameworks
     var frameworks = [
-        "Bootstrap: UI framework",
-        "Vue.js: Frontend framework"
+        "Bootstrap", "Vue.js"
     ]
     
-    // APIs
     var apis = [
-        "API: External data handling"
+        "API"
     ]
 
-    // Technologies
     var technologies = [
-        "AI: Artificial Intelligence basics"
+        "AI"
     ]
     
-    // Libraries
     var libraries = [
-        "Get Waves: UI wave effect",
-        "Owl Carousel: Image slider plugin",
-        "AOS: Scroll animations",
-        "Swiper.js: Modern mobile slider",
-        "Animation: CSS/JS effects"
+        "Get Waves", "Owl Carousel", "AOS", "Swiper.js", "Animation"
     ]
     
-    // System Tools
     var systemTools = [
-        "Git: Version control",
-        "GitHub: Code hosting platform",
-        "Vercel: Frontend deployment",
-        "Cmdr: Terminal emulator",
-        "Command Line: Shell interface",
-        "VS Code: Source-code editor",
-        "ChatGPT: AI coding assistant"
+        "Git", "GitHub", "Vercel", "Cmdr", "Command Line", "VS Code", "ChatGPT"
     ]
 
-    // Other Tools
     var otherTools = [
-        "Font Awesome: Icon library",
-        "SVG: Vector graphics",
-        "Google Fonts: Web typography",
-        "Search: Search functionality",
-        "Figma: UI/UX design tool",
-        "Photoshop: Design editing"
+        "Font Awesome", "SVG", "Google Fonts", "Search", "Figma", "Photoshop"
     ]
 }
 
