@@ -35,6 +35,7 @@
 ### 🧠 About Me (Swift Style)
 
 ```swift
+
 public struct AboutMe {
     let name = "Ammar Ahmed"
     var pronouns = ["he", "him"]
@@ -44,6 +45,68 @@ public struct AboutMe {
     let country = "Egypt"
     let age = 21
 
+    // Preferred Tech Stack
     var preferredTechStack = ["HTML", "CSS", "JavaScript", "PHP", "MySQL"]
-    var hasUsed = ["Python", "Bootstrap", "Laravel", "Vue.js", "Firebase"]
+    
+    // Languages
+    var programmingLanguages = [
+        "HTML: Used in structure",
+        "CSS: Styling pages",
+        "SASS: Advanced CSS",
+        "JavaScript: Dynamic content",
+        "Jquery: DOM manipulation",
+        "C++: OOP basics",
+        "C: Low-level programming",
+        "Python: General purpose",
+        "PHP: Server-side scripting",
+        "SQL: Databases queries",
+        "CS: General computer science"
+    ]
+
+    // Frameworks
+    var frameworks = [
+        "Bootstrap: UI framework",
+        "Vue.js: Frontend framework"
+    ]
+    
+    // APIs
+    var apis = [
+        "API: External data handling"
+    ]
+
+    // Technologies
+    var technologies = [
+        "AI: Artificial Intelligence basics"
+    ]
+    
+    // Libraries
+    var libraries = [
+        "Get Waves: UI wave effect",
+        "Owl Carousel: Image slider plugin",
+        "AOS: Scroll animations",
+        "Swiper.js: Modern mobile slider",
+        "Animation: CSS/JS effects"
+    ]
+    
+    // System Tools
+    var systemTools = [
+        "Git: Version control",
+        "GitHub: Code hosting platform",
+        "Vercel: Frontend deployment",
+        "Cmdr: Terminal emulator",
+        "Command Line: Shell interface",
+        "VS Code: Source-code editor",
+        "ChatGPT: AI coding assistant"
+    ]
+
+    // Other Tools
+    var otherTools = [
+        "Font Awesome: Icon library",
+        "SVG: Vector graphics",
+        "Google Fonts: Web typography",
+        "Search: Search functionality",
+        "Figma: UI/UX design tool",
+        "Photoshop: Design editing"
+    ]
 }
+
