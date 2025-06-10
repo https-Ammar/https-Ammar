@@ -17,18 +17,13 @@
   <img src="https://img.icons8.com/ios-filled/100/code--v1.png" width="60" alt="Developer Icon"/>
 </p>
 
-<p align="center">
+<p >
   <strong>A passionate self-taught Web Developer</strong> and <strong>freelance software engineer</strong> from <strong>Egypt</strong>.<br>
   My passion for software lies in dreaming up ideas and bringing them to life with elegant interfaces.<br>
   I’m also an <strong>open-source enthusiast and contributor</strong>, always learning and sharing through the community.<br>
   I truly believe in the power of <strong>collaboration</strong> and <strong>knowledge exchange</strong> in open source.
 </p>
 
-<p align="center">
-  <a href="https://yourwebsite.com" target="_blank">
-    🌐 Visit My Website
-  </a>
-</p>
 
 ---
 
