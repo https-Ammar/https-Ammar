@@ -3,14 +3,10 @@
   I'm Ammar!
 </h1>
 
-<p>
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Ammar%20Ahmed%20Mustafa;Front%20End%20Developer%20&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&size=22">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu" alt="visitor badge"/>
 </p>
 
 ---
