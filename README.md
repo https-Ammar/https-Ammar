@@ -13,9 +13,7 @@
 
 ### 👋 Hi, I'm [Ammar Ahmed](https://eng-ammar.com/)
 
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/100/code--v1.png" width="60" alt="Developer Icon"/>
-</p>
+
 
 <p >
   <strong>A passionate self-taught Web Developer</strong> and <strong>freelance software engineer</strong> from <strong>Egypt</strong>.<br>
