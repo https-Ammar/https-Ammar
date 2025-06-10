@@ -29,7 +29,7 @@ public struct AboutMe {
     
     let college = "Faculty of Computer Science"
     let country = "Egypt"
-    let age = 22
+    let age = 21
 
     var preferredTechStack = ["HTML", "CSS", "JavaScript", "PHP", "MySQL"]
     var hasUsed = ["Python", "Bootstrap", "Laravel", "Vue.js", "Firebase"]
