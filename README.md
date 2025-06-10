@@ -70,7 +70,7 @@ public struct AboutMe {
         "Font Awesome", "SVG", "Google Fonts", "Search", "Figma", "Photoshop"
     ]
 }
+```
 
-
-<p >© 2025. All rights reserved by Ammar Ahmed </p>
+<p>© 2025. All rights reserved by Ammar Ahmed</p>
 
